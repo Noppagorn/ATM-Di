@@ -1,4 +1,4 @@
-package atm;
+package atmXMLConfig;
 
 import java.io.IOException;
 import java.util.HashMap;
