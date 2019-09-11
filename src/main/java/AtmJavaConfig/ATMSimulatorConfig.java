@@ -22,7 +22,6 @@ public class ATMSimulatorConfig {
     }
     @Bean
     public ATMSimulator atmSimulator(){
-        System.out.println("test");
         return new ATMSimulator(atm());
     }
 
